@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Virtual Environment
+venv/
+.venv/
+env/
+env-local/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Model Files (downloaded automatically)
+yolov8n.pt
+
+# Temporary Files
+*.tmp
+*.temp
