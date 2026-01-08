@@ -23,7 +23,7 @@ We run the YOLOv8n (nano) model on both the original RGB images and the edge-onl
 - Evaluate the viability of photonic pre-processing for real-time applications
 
 ## Results
-![Result](comparison_benchmark.png)
+<img width="5970" height="1915" alt="image" src="https://github.com/user-attachments/assets/58cb0cac-084c-46bb-81e5-3ecdf118621a" />
 
 The comparison demonstrates that YOLOv8 can still detect objects effectively even when fed only edge information, retaining structural integrity for reliable detection despite significant bandwidth reduction.
 
@@ -62,4 +62,5 @@ Photonic-Edge-YOLO/
 ```
 
 ## Conclusion
+
 This benchmark demonstrates that photonic edge detection could be a viable approach for high-speed, low-bandwidth object detection pipelines. By reducing the input data to only edge information while maintaining detection accuracy, this approach shows promise for next-generation autonomous systems utilizing photonic processing engines.
